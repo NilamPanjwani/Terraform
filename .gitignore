@@ -4,7 +4,7 @@
 
 # tf state files
 
-#.tfstate
+.tfstate
 
 # tf var file as they may include sensitive information
 
