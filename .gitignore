@@ -1,12 +1,1 @@
-# local .terraform dir
-
-.terraform/*
-.terraform
-
-# tf state files
-
-.tfstate
-
-# tf var file as they may include sensitive information
-
-#.tfvars*/
+.terraform/
