@@ -1,6 +1,7 @@
 # local .terraform dir
 
 .terraform/*
+.terraform
 
 # tf state files
 
